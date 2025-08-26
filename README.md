@@ -1,2 +1,2 @@
-# Sem-foro-Inteligente
+# Semaforo-Inteligente
 Repositorio proyecto 1 Semáforo Inteligente
